@@ -6,7 +6,7 @@ FIRMWARE_PATH="/boot/efi/EFI/HP/DEVFW"
 
 # Extract spXXXXXX.exe
 echo "Extracting ${HP_EXE}"
-7za e ${HP.EXE}
+7za e ${HP_EXE}
 
 # Put the model .bin in the folder
 echo "Copying ${MODEL_BIOS} to ${FIRMWARE_PATH}"
