@@ -1,4 +1,4 @@
-### Helper script to update HP Probook G8 BIOS using Linux
+### Helper script to update HP Probook 445 G8 BIOS using Linux
 
 This repository contains a bash script that extracts the bios update executable and copies the firmware binary to the EFI partition so that the user can update the BIOS using local media
 
